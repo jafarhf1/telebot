@@ -27,4 +27,6 @@ Here are the chatbot functionalities:
 
 5. Default message: handle messages other than the previous commands.
 
-This bot is expected to run **continuously** on a server. A `Flask` application is deployed to Railway. 
+This bot is expected to run **continuously** on a server. A `Flask` application is deployed to Railway.
+
+**Deployed bot: http://t.me/DACP_DIVA_BOT**
